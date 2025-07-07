@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "ragwork"
 version = "0.1.0"
-description = ""
+description = "Rag using graphql"
 authors = ["anualiassynbrains <anu.alias@synbrains.ai>"]
 readme = "README.md"
 packages = [{include = "ragwork", from = "src"}]
