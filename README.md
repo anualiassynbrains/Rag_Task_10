@@ -1,4 +1,4 @@
-FastAPI & Strawberry GraphQL Server
+RAG with Graphql
 
 This project implements a powerful **Retrieval-Augmented Generation (RAG)** system designed for querying legal documents. It exposes a modern GraphQL API built with FastAPI and Strawberry, allowing you to ask natural language questions about a corpus of legal case files and receive precise, context-aware answers from an LLM.
 
@@ -23,9 +23,7 @@ This project implements a powerful **Retrieval-Augmented Generation (RAG)** syst
     
 *   **Environment Management**: python-dotenv
     
-*     
     
-*     
     
 *    Getting Started
     ----------------
