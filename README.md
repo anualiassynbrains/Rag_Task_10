@@ -43,7 +43,7 @@ This project implements a powerful **Retrieval-Augmented Generation (RAG)** syst
     
     First, clone the repository and navigate into the directory:
     
-*   Clone the repository  git clone https://github.com/anualiassynbrains/graphqltask\_task\_6
+*   Clone the repository  git clone https://github.com/anualiassynbrains/Rag_Task_10
     ```bash
     cd your-repo-name
     ```
