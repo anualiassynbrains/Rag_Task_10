@@ -9,7 +9,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
 from dotenv import load_dotenv
 from langchain_groq import ChatGroq
-from prompts import respprompt  # Define respprompt = "Query: {query}\n\nContext:\n{context}\n\nAnswer:"
+from rag.prompts import respprompt  # Define respprompt = "Query: {query}\n\nContext:\n{context}\n\nAnswer:"
 
 load_dotenv()
 

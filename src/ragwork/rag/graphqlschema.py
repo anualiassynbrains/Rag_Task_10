@@ -4,7 +4,7 @@ from fastapi import FastAPI
 from strawberry.fastapi import GraphQLRouter
 import strawberry
 from typing import List, Optional
-from retriever import run_query
+from rag.retriever import run_query
 
 @strawberry.type
 class SourceChunk:

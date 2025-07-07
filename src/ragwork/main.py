@@ -1,7 +1,7 @@
 # main.py
 from fastapi import FastAPI
 from strawberry.fastapi import GraphQLRouter
-from graphqlschema import Query # you defined above
+from rag.graphqlschema import Query # you defined above
 import strawberry
 import os
 import warnings
